@@ -32,7 +32,7 @@
                 <div class="col-md-6 col-sm-6 order-sm-2">
                     <div class="contact-meta px-2 text-center text-md-start">
                         <div class="heading-title">
-                            <h2 class="darkcolor font-normal mb-4"><span class="d-none d-md-inline-block">شعبه  </span>  <span class=" text-warning d-none d-md-inline-block">تهران</span></h2>
+                            <h2 class="darkcolor font-normal mb-4"><span class=" d-md-inline-block">شعبه  </span>  <span class=" text-warning  d-md-inline-block">تهران</span><small style="font-size: small;">(مرکزی)</small></h2>
                         </div>
                         <p class="bottom10">آدرس: تهران، خیابان ولیعصر،تقاطع طالقانی،مجتمع تجاری نور،طبقه سوم،واحد 11010</p>
                         <p class="bottom10">کد پستی: 1416799443</p>
@@ -45,14 +45,14 @@
                 <div class="col-md-6 col-sm-6 order-sm-2">
                     <div class="contact-meta px-2 text-center text-md-start">
                         <div class="heading-title">
-                            <h2 class="darkcolor font-normal mb-4"><span class="d-none d-md-inline-block">شعبه  </span> <span class="text-warning d-none d-md-inline-block">رشت</span></h2>
+                            <h2 class="darkcolor font-normal mb-4"><span class=" d-md-inline-block">شعبه  </span> <span class="text-warning  d-md-inline-block">رشت</span></h2>
                         </div>
-                        <p class="bottom10">آدرس: استان گیلان، شهر رشت، خیابان لاکانی، بلوار 22بهمن، نبش کوچه مانی، برج هما، طبقه 3، واحد 8</p>
-                        <p class="bottom10">کد پستی: 4143784442</p>
+                        <p class="bottom10">آدرس: استان گیلان، شهر رشت، خیابان رازی, روبروی بیمارستان رازی,ساختمان اسپیناس,طبقه سوم واحد نهم</p>
+                        <p class="bottom10">کد پستی: 4144716428</p>
 
-                        <p class="bottom10">تلفن: 34906-013</p>
+                        <p class="bottom10">تلفن: 91080038-021</p>
                         <p class="bottom10"><a href="mailto:polpo@traxagency.co.au">info@rayanab.ir</a></p>
-                        <p class="bottom10">شنبه تا چهارشنبه 9 الی 17 / پنجشنبه 9 الی 14:00</p>
+                        <p class="bottom10">شنبه تا چهارشنبه 9 الی 17:30 / پنجشنبه 9 الی 14:00</p>
                     </div>
                 </div>
             </div>
@@ -69,7 +69,7 @@
                         <span class=" divider-center"></span>
                     </h2>
                     <div class="col-md-8 offset-md-2-rtl bottom35">
-                        <p>رایاناب در تلاش است که به زودی در تمام شهر های ایران، دفاتر گارانتی خود را تاسیس کند تا مشتریان در تمام نقاط کشور عزیزمان به راحتی به خدمات ناب رایاناب دسترسی داشته باشند. در زیر میتوانید اطلاعات تماس این دفاتر را در شهر هایی که دفتر گارانتی دارند مشاهده کنید. برای استفاده از خدمات گارانتی در شهرهایی که در لیست زیر نیستند با دفتر مرکزی تماس بگیرید.</p>
+                        <p>رایاناب در تلاش است که به زودی در تمام شهر های ایران، دفاتر گارانتی خود را تاسیس کند تا مشتریان در تمام نقاط کشور عزیزمان به راحتی به خدمات ناب رایاناب دسترسی داشته باشند.  میتوانید اطلاعات تماس این دفاتر را در شهر هایی که دفتر گارانتی دارند مشاهده کنید. برای استفاده از خدمات گارانتی در شهرهایی که در لیست نیستند با دفتر مرکزی تماس بگیرید.</p>
                     </div>
                 </div>
                 <div class="col-md-12 col-sm-12">

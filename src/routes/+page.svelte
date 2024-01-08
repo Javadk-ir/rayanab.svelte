@@ -7,8 +7,8 @@
 
                     <img src="images/banner.jpg" title="title image" alt="banner.jpg" >
                     <!-- LAYER NR. 1 -->
-                    <h1 class="centered text-light text-capitalize font-xlight text-center"><b>رایاناب</b></h1><br>
-                    <h3 class="centered2 text-light text-capitalize font-xlight text-center">نمایندگی برند ایگو به صورت انحصاری</h3>
+                    <h1 class="centered text-light text-capitalize font-xlight text-center"><b>رایاناب</b><br>تامین کننده و نمایندگی برند ایگو به صورت انحصاری</h1><br>
+
 
 
              <style>
@@ -22,12 +22,7 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.centered2 {
-  position: absolute;
-  top: 48%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
+
              </style>
 
             </ul>

@@ -37,20 +37,37 @@
 <section id="shop" class="padding">
     <div class="container">
         <div class="row">
+
             <!-- NOTE: The Id of both of below tags should be same as below-->
             <!-- shop-dual-carousel -->
             <div class="col-lg-5 col-md-5 col-sm-12 wow fadeInLeft heading-space shift-tole" id="shop-dual-carousel">
-                <!-- syncCarousel -->
-                <div class="  owl-theme " id="syncCarousel">
-                   
-                            <a href="https://rayanabco.ir/{shop.images[0]}" data-fancybox="gallery" title="Zoom In">
-                                <img src="https://rayanabco.ir/{shop.images[0]}" alt="{shop.title}" height="400px" width="500px">
-                            </a>
-                      
-                    
-                </div>
-                <!-- The second carousel will be created dynamically using JS Based upon the items added in upper carousel -->
-            </div>
+                <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
+                    <div class="carousel-indicators">
+                      <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                      <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                      <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                    </div>
+                    <div class="carousel-inner">
+                      <div class="carousel-item active" data-bs-interval="10000" >
+                        <img src="https://rayanabco.ir/{shop.images[0]}" class="d-block w-100" alt="...">
+                      </div>
+                      {#each {length: shop.images.length} as _, i}
+                      <div class="carousel-item" data-bs-interval="2000">
+                        <img src="https://rayanabco.ir/{shop.images[i + 1]}" class="d-block w-100" alt="...">
+                      </div>
+                      {/each}
+
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Next</span>
+                    </button>
+                  </div>
+                  </div>
             <div class="col-lg-7 col-md-7 col-sm-12 shop_info heading-space wow fadeInRight" data-wow-delay="20ms" data-wow-duration="1100ms">
                 <!--Shop detail-->
                 <h1 class="heading darkcolor font-light2 bottom15"><span>{shop.title}</span><span class="divider-left"></span></h1>
