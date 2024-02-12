@@ -25,7 +25,7 @@ function totalist(dir, callback, pre='') {
 
 /**
  * @typedef ParsedURL
- * @type {import('./index.mjs').ParsedURL}
+ * @type {import('.').ParsedURL}
  */
 
 /**

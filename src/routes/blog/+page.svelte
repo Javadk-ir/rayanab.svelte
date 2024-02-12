@@ -41,7 +41,7 @@
         <div class="col-lg-4 col-md-6 col-sm-6" >
                 <div class="news_item shadow text-center text-md-start">
                     <a class="image" href="blog/{blogs.title}">
-                        <img src="https://rayanabco.ir/{blogs.image}" alt="{blogs.title}" class="img-responsive">
+                        <img src="https://rayanabcom.storage.iran.liara.space/blog/{blogs.image}" alt="{blogs.title}" class="img-responsive">
                     </a>
                     <div class="news_desc">
                         <h3 class="text-capitalize font-normal darkcolor"><a href="blog/{blogs.title}">{blogs.title}

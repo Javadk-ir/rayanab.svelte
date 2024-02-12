@@ -51,7 +51,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="shopping-box bottom30">
                             <div class="image" >
-                                <img src="https://rayanabco.ir/{shops.images[0]}" title="{shops.title}" alt="{shops.title}" height="250px">
+                                <img src="https://rayanabcom.storage.iran.liara.space/mahsolat/{shops.images[0]}" title="{shops.title}" alt="{shops.title}" height="250px">
                                 <div class="overlay center-block">
                                     <a class="opens" href="/shop/{shops.title}" title="Add To Cart"><i class="fa fa-eye"></i></a>
                                 </div>

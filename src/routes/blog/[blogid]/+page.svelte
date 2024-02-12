@@ -12,7 +12,7 @@
             <div class="col-lg-8 col-md-7">
                 <div class="news_item shadow">
                     <div class="image">
-                        <img src="https://rayanabco.ir/{blog.image}" alt="{blog.title}" class="img-responsive">
+                        <img src="https://rayanabcom.storage.iran.liara.space/blog/{blog.image}" alt="{blog.title}" class="img-responsive">
                     </div>
                     <div class="news_desc text-center text-md-start">
                         <h3 class="text-capitalize font-normal darkcolor"><a href="/blog/{blog.title}">{blog.title}</a></h3>
@@ -35,7 +35,7 @@
                         <h4 class="text-capitalize darkcolor bottom20 text-center text-md-start">پست اخیر</h4>
                         {#each blogs as related}
                         <div class="single_post d-table bottom15">
-                            <a href="/blog/{related.title}" class="post"><img src="https://rayanabco.ir/{related.image}" alt="{blog.title}"></a>
+                            <a href="/blog/{related.title}" class="post"><img src="https://rayanabcom.storage.iran.liara.space/blog/{related.image}" alt="{blog.title}"></a>
                             <div class="text">
                                 <a href="/blog/{related.title}">{related.title}</a>
                                 <span>{related.tarikh}</span>

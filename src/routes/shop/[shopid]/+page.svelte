@@ -49,11 +49,11 @@
                     </div>
                     <div class="carousel-inner">
                       <div class="carousel-item active" data-bs-interval="10000" >
-                        <img src="https://rayanabco.ir/{shop.images[0]}" class="d-block w-100" alt="...">
+                        <img src="https://rayanabcom.storage.iran.liara.space/mahsolat/{shop.images[0]}" class="d-block w-100" alt="...">
                       </div>
                       {#each {length: shop.images.length} as _, i}
                       <div class="carousel-item" data-bs-interval="2000">
-                        <img src="https://rayanabco.ir/{shop.images[i + 1]}" class="d-block w-100" alt="...">
+                        <img src="https://rayanabcom.storage.iran.liara.space/mahsolat/{shop.images[i + 1]}" class="d-block w-100" alt="...">
                       </div>
                       {/each}
 
@@ -246,7 +246,7 @@
             <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn ">
                 <div class="shopping-box top20 ">
                     <div class="image">
-                        <img src="https://rayanabco.ir/{realted.images[0]}" title="{realted.title}" alt="{realted.title}" height="200px">
+                        <img src="https://rayanabcom.storage.iran.liara.space/mahsolat/{realted.images[0]}" title="{realted.title}" alt="{realted.title}" height="200px">
                         <div class="overlay center-block">
                             <a class="opens" href="/shop/{realted.title}" title="Add To Cart"><i class="fa fa-eye"></i></a>
                         </div>
