@@ -9,6 +9,10 @@ const config = {
     adapter: adapter({
 		out: 'build',
 		precompress: true,
+    csp:{
+      mode:"hash",
+      directives:{"script-src":["self"]},
+      },
 	}),
     alias: {
       $db: "./src/db",

@@ -1,77 +1,123 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
-  <loc>https://rayanab.com/</loc>
-  <lastmod>2023-11-30T07:41:59+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://rayanab.com/</loc>
+<lastmod>2024-02-20T06:34:38+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://rayanab.com/shop</loc>
-  <lastmod>2023-11-30T07:41:59+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://rayanab.com/shop</loc>
+<lastmod>2024-02-29T09:55:04+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://rayanab.com/blog</loc>
-  <lastmod>2023-11-30T07:41:59+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://rayanab.com/blog</loc>
+<lastmod>2024-02-29T09:55:04+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://rayanab.com/contact</loc>
-  <lastmod>2023-11-30T07:41:59+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://rayanab.com/contact</loc>
+<lastmod>2024-02-20T06:34:38+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://rayanab.com/work</loc>
-  <lastmod>2023-11-30T07:41:59+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://rayanab.com/work</loc>
+<lastmod>2024-02-20T06:34:38+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://rayanab.com/shop?page=</loc>
-  <lastmod>2023-11-30T07:41:59+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://rayanab.com/shop/%D8%A7%D8%B3%20%D8%A7%D8%B3%20%D8%AF%DB%8C%20%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%A7%D9%84%20%D8%A7%DB%8C%DA%AF%D9%88%20%D9%85%D8%AF%D9%84%20P7000</loc>
+<lastmod>2024-02-29T09:55:04+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://rayanab.com/shop?page=1</loc>
-  <lastmod>2023-11-30T07:41:59+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://rayanab.com/shop/%D8%A7%D8%B3%20%D8%A7%D8%B3%20%D8%AF%DB%8C%20%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%A7%D9%84%20%D8%A7%DB%8C%DA%AF%D9%88%20%D9%85%D8%AF%D9%84%20P3000</loc>
+<lastmod>2024-02-29T09:55:04+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://rayanab.com/shop?page=2</loc>
-  <lastmod>2023-11-30T07:41:59+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://rayanab.com/shop/%D9%81%D9%84%D8%B4%20%D9%85%D9%85%D9%88%D8%B1%DB%8C%20%D8%A7%DB%8C%DA%AF%D9%88%20%D9%85%D8%AF%D9%84%20U268</loc>
+<lastmod>2024-02-29T09:55:04+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://rayanab.com/blogDetail/65649bd495fb300a3de135bd</loc>
-  <lastmod>2023-11-30T07:41:59+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://rayanab.com/shop/%D8%A7%D8%B3%20%D8%A7%D8%B3%20%D8%AF%DB%8C%20%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%A7%D9%84%20%D8%A7%DB%8C%DA%AF%D9%88%20%D9%85%D8%AF%D9%84%20P2000</loc>
+<lastmod>2024-02-29T09:55:04+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://rayanab.com/blogDetail/656830cc9074ac5dc78e12e0</loc>
-  <lastmod>2023-11-30T07:41:59+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://rayanab.com/shop/%D9%81%D9%84%D8%B4%20%D9%85%D9%85%D9%88%D8%B1%DB%8C%20%D8%A7%DB%8C%DA%AF%D9%88%20%D9%85%D8%AF%D9%84%20U310</loc>
+<lastmod>2024-02-29T09:55:04+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://rayanab.com/blogDetail/656833a756881ad7528e8d09</loc>
-  <lastmod>2023-11-30T07:41:59+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://rayanab.com/shop/%D9%81%D9%84%D8%B4%20%D9%85%D9%85%D9%88%D8%B1%DB%8C%20%D8%A7%DB%8C%DA%AF%D9%88%20%D9%85%D8%AF%D9%84%20U321</loc>
+<lastmod>2024-02-29T09:55:04+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://rayanab.com/blog?page=</loc>
-  <lastmod>2023-11-30T07:41:59+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://rayanab.com/shop/%D9%81%D9%84%D8%B4%20%D9%85%D9%85%D9%88%D8%B1%DB%8C%20%D8%A7%DB%8C%DA%AF%D9%88%20%D9%85%D8%AF%D9%84%20U310PRO</loc>
+<lastmod>2024-02-29T09:55:04+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://rayanab.com/blog?page=1</loc>
-  <lastmod>2023-11-30T07:41:59+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://rayanab.com/shop/%D9%81%D9%84%D8%B4%20%D9%85%D9%85%D9%88%D8%B1%DB%8C%20%D8%A7%D9%88%20%D8%AA%DB%8C%20%D8%AC%DB%8C%20U358</loc>
+<lastmod>2024-02-29T09:55:04+00:00</lastmod>
+<priority>0.64</priority>
 </url>
-
-
+<url>
+<loc>https://rayanab.com/shop/%D9%81%D9%84%D8%B4%20%D9%85%D9%85%D9%88%D8%B1%DB%8C%20U330</loc>
+<lastmod>2024-02-29T09:55:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://rayanab.com/shop/%DA%A9%D8%A7%D8%B1%D8%AA%20%D8%AD%D8%A7%D9%81%D8%B8%D9%87%20%D8%A7%DB%8C%DA%AF%D9%88%20%D9%85%D8%AF%D9%84%20T1</loc>
+<lastmod>2024-02-29T09:55:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://rayanab.com/shop/%D9%81%D9%84%D8%B4%20%D9%85%D9%85%D9%88%D8%B1%DB%8C%20U221</loc>
+<lastmod>2024-02-29T09:55:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://rayanab.com/shop/%D9%81%D9%84%D8%B4%20%D9%85%D9%85%D9%88%D8%B1%DB%8C%20%D8%A7%D9%88%20%D8%AA%DB%8C%20%D8%AC%DB%8C%20U350</loc>
+<lastmod>2024-02-29T09:55:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://rayanab.com/shop/%D9%81%D9%84%D8%B4%20%D9%85%D9%85%D9%88%D8%B1%DB%8C%20U266</loc>
+<lastmod>2024-02-29T09:55:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://rayanab.com/shop/%D8%A7%D8%B3%20%D8%A7%D8%B3%20%D8%AF%DB%8C%20%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%A7%D9%84%20%D8%A7%DB%8C%DA%AF%D9%88%20%D9%85%D8%AF%D9%84%20S500</loc>
+<lastmod>2024-02-29T09:55:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://rayanab.com/blog/SSD%20vs%20HDD</loc>
+<lastmod>2024-02-29T09:55:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://rayanab.com/blog/%DA%86%D8%B1%D8%A7%20%D8%A8%D8%A7%DB%8C%D8%AF%20SSD%20%D8%A8%D8%AC%D8%A7%DB%8C%20HDD%20%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%20%DA%A9%D9%86%DB%8C%D9%85%D8%9F</loc>
+<lastmod>2024-02-29T09:55:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://rayanab.com/blog/%D8%AA%D9%81%D8%A7%D9%88%D8%AA%20USB%202.0%20%D8%A8%D8%A7%20USB%203.0</loc>
+<lastmod>2024-02-29T09:55:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://rayanab.com/blog/%D8%AF%D9%84%D8%A7%DB%8C%D9%84%20%D8%AE%D9%88%D8%A8%DB%8C%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%20SSD%20%D9%87%D8%A7%DB%8C%20%D8%A8%D8%B1%D9%86%D8%AF%20Aigo</loc>
+<lastmod>2024-02-29T09:55:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://rayanab.com/blog/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DA%86%D9%87%20SSD:%20%D8%A7%D8%B2%20%D8%A7%D9%88%D9%84%DB%8C%D9%86%20%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D8%B9%20%D8%AA%D8%A7%20%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86%DB%8C%20%D9%87%D8%A7%D8%B1%D8%AF%20%D8%AF%DB%8C%D8%B3%DA%A9</loc>
+<lastmod>2024-02-29T09:55:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
 </urlset>

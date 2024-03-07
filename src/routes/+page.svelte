@@ -1,3 +1,14 @@
+<script lang="ts">
+    import { onMount } from 'svelte';
+    
+    import { Application } from '@splinetool/runtime';
+    onMount(() => {
+
+    const canvas: any = document.getElementById('canvas3d');
+const app: any = new Application(canvas);
+app.load('https://prod.spline.design/XtVm4mAlsRIBkdMP/scene.splinecode');
+	});
+</script>
 <!--Main Slider-->
 <section id="main-banner-area" class="position-relative">
     <div id="position-relative" class="rev_slider_wrapper fullwidthbanner-container m-0 p-0 bg-light" data-alias="classic4export">
@@ -7,25 +18,30 @@
 
                     <img src="images/banner.jpg" title="title image" alt="banner.jpg" >
                     <!-- LAYER NR. 1 -->
-                    <h1 class="centered text-light text-capitalize font-xlight text-center"><b>رایاناب</b></h1><br>
-                    <h3 class="centered2 text-light text-capitalize font-xlight text-center">تامین کننده برند ایگو به صورت انحصاری</h3><br>
+
+                    
+                    <div class="centered text-light text-capitalize font-xlight text-center"><canvas id="canvas3d"></canvas></div><br>
+                    <h3 class="centered2 text-light text-capitalize font-xlight text-center"><span class="text-warning">رایاناب</span> , گارانتی <span class="text-warning">ناب</span></h3><br>
 
 
 
              <style>
+
                 .centered {
                     font-size: 72px;
   position: absolute;
-  top: 40%;
+  top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
   background: -webkit-linear-gradient(#ffc107, #ffff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  width: 500px;
+  height: 500px
 }
 .centered2 {
   position: absolute;
-  top: 50%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
 }

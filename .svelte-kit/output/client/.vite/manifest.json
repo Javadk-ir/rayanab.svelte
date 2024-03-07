@@ -11,8 +11,9 @@
       ".svelte-kit/generated/client-optimized/nodes/7.js",
       ".svelte-kit/generated/client-optimized/nodes/8.js"
     ],
-    "file": "_app/immutable/entry/app.HW7Tv-tS.js",
+    "file": "_app/immutable/entry/app.D00biE7i.js",
     "imports": [
+      "_preload-helper.0HuHagjb.js",
       "_scheduler.V7bLW0bx.js",
       "_index.qldEyqwz.js"
     ],
@@ -30,28 +31,37 @@
     "src": ".svelte-kit/generated/client-optimized/nodes/0.js"
   },
   ".svelte-kit/generated/client-optimized/nodes/1.js": {
-    "file": "_app/immutable/nodes/1.Ib6gCU-w.js",
+    "file": "_app/immutable/nodes/1.s-X7R3Vu.js",
     "imports": [
       "_scheduler.V7bLW0bx.js",
       "_index.qldEyqwz.js",
-      "_singletons.cn8qY3_l.js"
+      "_singletons.u7tegmSR.js"
     ],
     "isDynamicEntry": true,
     "isEntry": true,
     "src": ".svelte-kit/generated/client-optimized/nodes/1.js"
   },
   ".svelte-kit/generated/client-optimized/nodes/2.js": {
-    "file": "_app/immutable/nodes/2.fG4PhzA6.js",
+    "dynamicImports": [
+      "node_modules/@splinetool/runtime/build/navmesh.js",
+      "node_modules/@splinetool/runtime/build/physics.js",
+      "node_modules/@splinetool/runtime/build/process.js",
+      "node_modules/@splinetool/runtime/build/boolean.js",
+      "node_modules/@splinetool/runtime/build/opentype.js",
+      "node_modules/@splinetool/runtime/build/ui.js"
+    ],
+    "file": "_app/immutable/nodes/2._axBLjUW.js",
     "imports": [
       "_scheduler.V7bLW0bx.js",
-      "_index.qldEyqwz.js"
+      "_index.qldEyqwz.js",
+      "_preload-helper.0HuHagjb.js"
     ],
     "isDynamicEntry": true,
     "isEntry": true,
     "src": ".svelte-kit/generated/client-optimized/nodes/2.js"
   },
   ".svelte-kit/generated/client-optimized/nodes/3.js": {
-    "file": "_app/immutable/nodes/3.N2G8qKX8.js",
+    "file": "_app/immutable/nodes/3.cEG03ApJ.js",
     "imports": [
       "_scheduler.V7bLW0bx.js",
       "_index.qldEyqwz.js",
@@ -123,20 +133,53 @@
       "_scheduler.V7bLW0bx.js"
     ]
   },
+  "_preload-helper.0HuHagjb.js": {
+    "file": "_app/immutable/chunks/preload-helper.0HuHagjb.js"
+  },
   "_scheduler.V7bLW0bx.js": {
     "file": "_app/immutable/chunks/scheduler.V7bLW0bx.js"
   },
-  "_singletons.cn8qY3_l.js": {
-    "file": "_app/immutable/chunks/singletons.cn8qY3_l.js",
+  "_singletons.u7tegmSR.js": {
+    "file": "_app/immutable/chunks/singletons.u7tegmSR.js",
     "imports": [
       "_scheduler.V7bLW0bx.js"
     ]
   },
+  "node_modules/@splinetool/runtime/build/boolean.js": {
+    "file": "_app/immutable/chunks/boolean.v3codA3A.js",
+    "isDynamicEntry": true,
+    "src": "node_modules/@splinetool/runtime/build/boolean.js"
+  },
+  "node_modules/@splinetool/runtime/build/navmesh.js": {
+    "file": "_app/immutable/chunks/navmesh.QdgGSsus.js",
+    "isDynamicEntry": true,
+    "src": "node_modules/@splinetool/runtime/build/navmesh.js"
+  },
+  "node_modules/@splinetool/runtime/build/opentype.js": {
+    "file": "_app/immutable/chunks/opentype.BktxL4Qf.js",
+    "isDynamicEntry": true,
+    "src": "node_modules/@splinetool/runtime/build/opentype.js"
+  },
+  "node_modules/@splinetool/runtime/build/physics.js": {
+    "file": "_app/immutable/chunks/physics.XY0FX9ij.js",
+    "isDynamicEntry": true,
+    "src": "node_modules/@splinetool/runtime/build/physics.js"
+  },
+  "node_modules/@splinetool/runtime/build/process.js": {
+    "file": "_app/immutable/chunks/process.BcW0pGnR.js",
+    "isDynamicEntry": true,
+    "src": "node_modules/@splinetool/runtime/build/process.js"
+  },
+  "node_modules/@splinetool/runtime/build/ui.js": {
+    "file": "_app/immutable/chunks/ui.AHHydvtN.js",
+    "isDynamicEntry": true,
+    "src": "node_modules/@splinetool/runtime/build/ui.js"
+  },
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/entry/start.KZ6r8i1V.js",
+    "file": "_app/immutable/entry/start.Sep_dVmH.js",
     "imports": [
       "_scheduler.V7bLW0bx.js",
-      "_singletons.cn8qY3_l.js"
+      "_singletons.u7tegmSR.js"
     ],
     "isEntry": true,
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js"

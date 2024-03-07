@@ -47,7 +47,7 @@
                         <h3 class="text-capitalize font-normal darkcolor"><a href="blog/{blogs.title}">{blogs.title}
                         </a></h3>
                         <ul class="meta-tags top20 bottom20">
-                            <li><a href="blog/{blogs.title}"><i class="fas fa-calendar-alt"></i> {blogs.title} </a></li>
+                            <li><a href="blog/{blogs.title}"><i class="fas fa-calendar-alt"></i> {blogs.tarikh} </a></li>
                             <li><a href="blog/{blogs.title}"> <i class="far fa-user"></i> {blogs.submmitedby} </a></li>
                         </ul>
                         <p class="bottom35">{blogs.matnkholase}</p>
